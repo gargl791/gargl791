@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year Software Engineering and Data Science student at the University of Otago, passionate about exploring the realms of coding, and building robust applications
+I am a final-year Software Engineering student at the University of Otago, passionate about exploring the realms of coding, and building robust applications
 
 
 ## 🌐 Socials:
