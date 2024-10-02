@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a final-year Software Engineering student at the University of Otago, passionate about exploring the realms of coding, and building robust applications
 
-# 🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 Typescript and TailwindCSS, AWS & Terraform provisioning.
 
 ## 🌐 Socials:
