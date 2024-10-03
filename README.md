@@ -2,7 +2,7 @@
 I am a final-year Software Engineering student at the University of Otago, passionate about exploring the realms of coding, and building robust applications
 
 ## 🌱 I’m currently learning:
-Typescript and TailwindCSS, AWS & Terraform provisioning.
+React, AWS & Terraform provisioning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gargl791) 
