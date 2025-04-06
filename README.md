@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a final-year Software Engineering student at the University of Otago, passionate about exploring the realms of coding, and building robust applications
+I am a graduate Software Engineer student from the University of Otago. I am passionate about exploring the realms of coding, and building robust applications
 
 ## 🌱 I’m currently learning:
-React, AWS & Terraform provisioning.
+React
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gargl791) 
