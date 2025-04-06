@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a graduate Software Engineer student from the University of Otago. I am passionate about exploring the realms of coding, and building robust applications
+I am a graduate Software Engineer from the University of Otago. I am passionate about exploring the realms of coding, and building robust applications
 
 ## 🌱 I’m currently learning:
 React
